@@ -296,7 +296,7 @@ This task will execute the scripts in the `deploy` folder and save the contract 
 
 With the deployment saved, it allows you to deploy a contract only if changes were made.
 
-Deploy scripts (also called Deploy functions) can also perform aribtrary logic.
+Deploy scripts (also called Deploy functions) can also perform arbitrary logic.
 
 For further details on how to use it and write deploy script, see [section](#deploy-scripts) below.
 
